@@ -26,3 +26,5 @@
 ---- **--** -- **--** --
 
 ~~Proj~~
+
+![google logo](https://www.google.ru/images/srpr/logo11w.png)
