@@ -14,7 +14,7 @@
 | HEADER | HEADER | HEADER | HEADER | HEADER |
 | ------ | ------ | ------ | ------ | ------ |
 | COLUMN | COLUMN | COLUMN | COLUMN | COLUMN |
-| COLUMN | COLUMN | COLUMN | COLUMN | COLUMN |
+|   cc   |   cc   |   cc   |   cc   |   cc   |
 | COLUMN | COLUMN | COLUMN | COLUMN | COLUMN |
 
 ---
